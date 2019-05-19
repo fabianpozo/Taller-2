@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1558296971 source:c:\users\win x-v4\desktop\taller 2\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<Libro.h>
+	<Pila.h>
+	<PilaRecargada.h>
+	<windows.h>
+
+1558296259 source:c:\users\win x-v4\desktop\taller 2\src\pila.cpp
+	"Pila.h"
+	"Libro.h"
+
+1558298247 c:\users\win x-v4\desktop\taller 2\include\pila.h
+	"Libro.h"
+
+1558296386 c:\users\win x-v4\desktop\taller 2\include\libro.h
+	<iostream>
+
+1558296470 source:c:\users\win x-v4\desktop\taller 2\src\libro.cpp
+	"Libro.h"
+
+1558297535 source:c:\users\win x-v4\desktop\taller 2\src\pilarecargada.cpp
+	"PilaRecargada.h"
+
+1558296447 c:\users\win x-v4\desktop\taller 2\include\pilarecargada.h
+	<Pila.h>
+	<Libro.h>
+
+1558296470 source:c:\users\acer\downloads\taller 2\taller 2\src\libro.cpp
+	"Libro.h"
+
+1558296386 c:\users\acer\downloads\taller 2\taller 2\include\libro.h
+	<iostream>
+
+1558300742 source:c:\users\acer\downloads\taller 2\taller 2\src\pila.cpp
+	"Pila.h"
+	"Libro.h"
+
+1558299423 c:\users\acer\downloads\taller 2\taller 2\include\pila.h
+	"Libro.h"
+
+1558302756 source:c:\users\acer\downloads\taller 2\taller 2\src\pilarecargada.cpp
+	"PilaRecargada.h"
+
+1558302634 c:\users\acer\downloads\taller 2\taller 2\include\pilarecargada.h
+	<Pila.h>
+	<Libro.h>
+
+1558302624 source:c:\users\acer\downloads\taller 2\taller 2\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<Libro.h>
+	<Pila.h>
+	<PilaRecargada.h>
+	<windows.h>
+
